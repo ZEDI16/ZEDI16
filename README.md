@@ -1,12 +1,26 @@
-<h1 align="center">
+<div align="center">
+
+
+**:>**  
+  
+
+</div>
+
+[![][banner-url]][repo-url]  
+
+
+[repo-url]: https://github.com/ZEDI16/ZEDI16.me
+[banner-url]: https://github.com/ZEDI16/ZEDI16.me/blob/main/Images/20230825_155336.png
+
+<!--<h1 align="center">
  Hi, I'm ZEDI<br>.
   <br><br>
 </h1>
 
-<!-- <h2 align="center">
+ <h2 align="center">
   ⚡ <a href="https:/" target="_blank">zzzz</a> ⚡
   <br><br>
-</h2> -->
+</h2>
 
 ### More about me:
 
@@ -31,4 +45,4 @@ Check some wesbites/apps I've made:
 <img src="https://github-readme-stats.vercel.app/api?username=ZEDI16_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEDI16&theme=tokyonight" width="50%"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEDI16&layout=compact&theme=tokyonight)]
 
----
+--- -->
