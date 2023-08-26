@@ -1,12 +1,21 @@
 <div align="center">
 
-
-**:>**  
-  
+  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zedi_16) 
 
 </div>
 
-[![][banner-url]][repo-url]  
+[![][banner-url]][repo-url] 
+
+
+
+ 
+
+ <h6>Check some wesbites/apps I've made: 
+ 
+- 🍙 [https://suicidesquad.42web.io](https://suicidesquad.42web.io)
+- 🍘 [http://atcuiottwp.epizy.com](http://atcuiottwp.epizy.com/)
+
+</h6>
 
 
 [repo-url]: https://github.com/ZEDI16/ZEDI16.me
@@ -36,8 +45,8 @@
 ---
 
 Check some wesbites/apps I've made:
-- 🍙 [https://mail-cat.cc](https://suicidesquad.42web.io)
-- 🍘 [https://boardretro.party](http://atcuiottwp.epizy.com/)
+- 🍙 [https://suicidesquad.42web.io](https://suicidesquad.42web.io)
+- 🍘 [http://atcuiottwp.epizy.com](http://atcuiottwp.epizy.com/)
 
 ---
 ![](https://komarev.com/ghpvc/?username=YasiOnFire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@2d17ce26-1611-4757-bf95-fdb0da64fc74)
