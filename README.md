@@ -18,8 +18,8 @@
 </h6>
 
 
-[repo-url]: https://github.com/ZEDI16/ZEDI16.me
-[banner-url]: https://github.com/ZEDI16/ZEDI16.me/blob/main/Images/20231108_043909.png
+[repo-url]: https://github.com/ZEDI16/ZEDI16
+[banner-url]: https://github.com/ZEDI16/ZEDI16/blob/main/Images/20231108_043909.png
 
 <!--<h1 align="center">
  Hi, I'm ZEDI<br>.
