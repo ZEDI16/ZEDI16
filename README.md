@@ -4,7 +4,7 @@
 
 </div>
 
-[![][banner-url]][repo-url] 
+<!--[![][banner-url]][repo-url]-->
 
 
 
